@@ -18,6 +18,10 @@
 
 .post p {
     margin: 0;
+    max-width: 80ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 .link{
     display: flex;
