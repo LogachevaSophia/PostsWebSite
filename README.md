@@ -2,6 +2,9 @@
 All posts are provided on the main page, each post leads to a separate page with more detailed information. 
 The project is implemented with FSD architecture
 
+# Link deploy
+https://logachevasophia.github.io/PostsWebSite/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
